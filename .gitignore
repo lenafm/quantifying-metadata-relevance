@@ -1,0 +1,10 @@
+# rstudio files
+.DS_Store
+
+# pycharm files
+venv/
+.idea/
+__pycache__/
+
+# jupyter notebook files
+.ipynb_checkpoints
